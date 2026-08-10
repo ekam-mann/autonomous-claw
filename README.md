@@ -18,7 +18,7 @@ The key design point is that it is closed loop: it does not assume a grab worked
 - Arduino Uno
 - Ultrasonic distance sensor (HC-SR04 style)
 - 180 degree servo
-- Sheet metal frame, fabricated to plus or minus 1 mm tolerances across 12 joints
+- Sheet metal frame, fabricated to plus or minus 2 mm tolerances across 12 joints
 - Interference envelopes simulated in SolidWorks before fabrication, cutting material waste by 20% pre build
 
 ## Files
