@@ -1,6 +1,6 @@
 # Autonomous Underwater Claw
 
-Closed-loop underwater gripper that detects, grabs, confirms, and releases an object with no operator input. Team project for APSC 101 (Team K1). Full writeup: [ekammann.com/projects/autonomous-claw](https://ekammann.com/projects/autonomous-claw/)
+Closed-loop underwater gripper that detects, grabs, confirms, and releases an object with no operator input. Team project for APSC 101. Full writeup: [ekammann.com/projects/autonomous-claw](https://ekammann.com/projects/autonomous-claw/)
 
 ## How it works
 
@@ -25,4 +25,4 @@ The key design point is that it is closed loop: it does not assume a grab worked
 
 - `claw.ino` — Arduino sketch, runs as-is on the hardware described above.
 - `cad-render.jpg` — SolidWorks assembly render.
-- `assembly-drawing.jpg` — dimensioned engineering drawing (Team K1).
+- `assembly-drawing.jpg` — dimensioned engineering drawing.
