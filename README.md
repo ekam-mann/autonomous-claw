@@ -1,6 +1,6 @@
 # Autonomous Underwater Claw
 
-Closed-loop underwater gripper that detects, grabs, confirms, and releases an object with no operator input. Team project for APSC 101 (Team K1), team lead. Full writeup: [ekammann.com/projects/autonomous-claw](https://ekammann.com/projects/autonomous-claw/)
+Closed-loop underwater gripper that detects, grabs, confirms, and releases an object with no operator input. Team project for APSC 101 (Team K1). Full writeup: [ekammann.com/projects/autonomous-claw](https://ekammann.com/projects/autonomous-claw/)
 
 ## How it works
 
