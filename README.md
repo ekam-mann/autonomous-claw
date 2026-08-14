@@ -23,6 +23,6 @@ The key design point is that it is closed loop: it does not assume a grab worked
 
 ## Files
 
-- `claw.ino` — Arduino sketch, runs as-is on the hardware described above.
-- `cad-render.jpg` — SolidWorks assembly render.
-- `assembly-drawing.jpg` — dimensioned engineering drawing.
+- `claw.ino`: Arduino sketch, runs as-is on the hardware described above.
+- `cad-render-1.jpg`, `cad-render-2.jpg`: SolidWorks assembly renders.
+- `assembly-drawing.jpg`: dimensioned engineering drawing.
